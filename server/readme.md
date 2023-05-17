@@ -6,7 +6,7 @@ Wie bekomme ich den Server zum laufen?
 4. "npm init" , Schritte können übersprungen werden
 5. package.json und package-lock.json ersetzen durch Dateien auf Github, sowie andere Dateien in den Ordner ziehen
 6. "npm install express ejs json-server" , installiert benötigte packages
-7. "npm index.js" zum ausführen des Servers
+7. "node index.js" zum ausführen des Servers
 
 Fertig! :)
 
