@@ -1,4 +1,4 @@
-#Wie bekomme ich den Server zum laufen?
+Wie bekomme ich den Server zum laufen?
 
 1. node installieren
 2. einen neuen Ordner erstellen
